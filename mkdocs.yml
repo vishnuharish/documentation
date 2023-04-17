@@ -3,4 +3,8 @@ site_url: "https://harish-documentation.github.io"
 nav: 
   - Home: index.md
   - Linux crash course: linux_crash_course.md
+  - Ruby on Rails: Ruby_on_Rails.md
   - About: about.md
+theme:
+  name: simple-blog 
+  nav_style: dark
