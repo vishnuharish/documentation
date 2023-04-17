@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://harish-documentation.github.io/Ruby_on_Rails/</loc>
+         <lastmod>2023-04-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://harish-documentation.github.io/about/</loc>
          <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
